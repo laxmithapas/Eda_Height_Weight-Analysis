@@ -110,7 +110,3 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Steps to use this README:
-1. Create a new file in your project folder and name it README.md.
-2. Paste the contents above into this file.
-3. Update any sections if necessary, especially the *Data Source* and *License* sections.
