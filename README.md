@@ -11,7 +11,6 @@ This project is focused on performing *Exploratory Data Analysis (EDA)* on a dat
 5. [Usage](#usage)
 6. [Analysis and Results](#analysis-and-results)
 7. [Conclusion](#conclusion)
-8. [License](#license)
 
 ## Project Overview
 
@@ -106,7 +105,4 @@ Conclusion
 
 The Exploratory Data Analysis (EDA) for this dataset provides basic insights into the distribution and relationship between Height and Weight. The visualizations highlight the data's spread, central tendency, and the correlation between the two features.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
