@@ -82,7 +82,7 @@ Perform statistical analysis.
 Generate and display visualizations (Histograms and Scatter Plot).
 
 
-Analysis and Results
+## Analysis and Results
 
 The analysis includes:
 
