@@ -101,7 +101,7 @@ Distribution of Weight (in pounds).
 
 
 
-Conclusion
+## Conclusion
 
 The Exploratory Data Analysis (EDA) for this dataset provides basic insights into the distribution and relationship between Height and Weight. The visualizations highlight the data's spread, central tendency, and the correlation between the two features.
 
